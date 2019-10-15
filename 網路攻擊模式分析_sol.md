@@ -13,6 +13,7 @@ D. Key logger 鍵盤病毒
 
 ```
 
+
 # 2
 ```
 Ahmed is a sales manager(銷售管理者) with a major insurance company. He has received an email that
