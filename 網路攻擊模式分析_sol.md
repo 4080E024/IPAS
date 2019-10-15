@@ -26,7 +26,7 @@ B. Social engineering(社交攻擊)
 C. Spear phishing(魚叉式攻擊特定對象)
 D. Trojan horse特洛伊木馬
 ```
-```
+``` 
 Which of the following=(下列何者)
 答案是: C
 ```
@@ -68,70 +68,73 @@ D. Rootkit
 #36
 ```
 You are a security(安全) administrator(管理者) for a bank. You are very interested in detecting(檢測) any
-breaches(違反) or even attempted breaches of your network, including those from internal personnel.
+breaches(違反) or even attempted(企圖) breaches(破壞) of your network, including those from internal personnel(內部人員).
 But you don’t want false positives to disrupt work. Which of the following devices
+
 would be the best choice in this scenario?
 A. IPS
 B. WAF
 C. SIEM
-D. IDS
+D. IDS (入侵檢測系統)
 ```
 ```
-答案是:
+答案是: D
 ```
 
 #37
 ```
-One of your users cannot recall the password for their laptop. You want to recover that
-password for them. You intend to use a tool/technique that is popular with hackers, and
-it consists of searching tables of precomputed hashes to recover the password. What best
-describes this?
+One of your users cannot recall the password for their laptop. You want to recover(恢復) that
+password for them. You intend to use a tool/technique(工具、技術) that is popular with hackers, and
+it consists of searching(搜尋) tables of precomputed(預算) hashes to recover the password.
+What bestdescribes this?
 A. Rainbow table
-B. Backdoor
-C. Social engineering
-D. Dictionary attack
+B. Backdoor(後門)
+C. Social engineering(社交工程)
+D. Dictionary attack(字典式攻擊)
 ```
 ```
-答案是:
+答案是: A
 ```
 
 #38
 ```
-You have noticed that when in a crowded area, you sometimes get a stream of unwanted
-text messages. The messages end when you leave the area. What describes this attack?
+You have noticed that when in a crowded area,
+you sometimes get a stream of unwantedtext messages. (有時您會得到一些不必要的信息)
+The messages end when you leave the area(區域).
+What describes this attack?
 A. Bluejacking
-B. Bluesnarfing
+B. Bluesnarfing (藍牙漏洞攻擊)
 C. Evil twin
 D. Rogue access point
 ```
 ```
-答案是:
+答案是: B
 ```
 
 #39
 ```
-Someone has been rummaging through your company’s trash bins seeking to find documents,
-diagrams, or other sensitive information that has been thrown out. What is this
-called?
-A. Dumpster diving
+Someone has been rummaging(翻找) through your company’s trash(垃圾) bins seeking(尋找) to find documents(查尋文件),
+diagrams(圖表), or other sensitive information that has been thrown out.
+What is thiscalled?
+A. Dumpster diving (垃圾搜尋)
 B. Trash diving
-C. Social engineering
+C. Social engineering (社交工程)
 D. Trash engineering
 ```
 ```
-答案是:
+答案是: A
 ```
 
 #40
 ```
 You have noticed that when in a crowded area, data from your cell phone is stolen. Later
-investigation shows a Bluetooth connection to your phone, one that you cannot explain.
+investigation(調查) shows a Bluetooth connection to your phone, one that you cannot explain.
 What describes this attack?
 A. Bluejacking
-B. Bluesnarfing
+B. Bluesnarfing (藍牙漏洞攻擊)
 C. Evil twin
 D. RAT
 ```
 ```
-答案是:
+答案是: B 
 ```
