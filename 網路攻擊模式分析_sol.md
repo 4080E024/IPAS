@@ -108,7 +108,7 @@ C. Evil twin
 D. Rogue access point
 ```
 ```
-答案是: B
+答案是: A
 ```
 
 #39
