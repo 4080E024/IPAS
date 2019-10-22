@@ -68,13 +68,13 @@ D. Rootkit
 #36
 ```
 You are a security(安全) administrator(管理者) for a bank. You are very interested in detecting(檢測) any
-breaches(違反) or even attempted(企圖) breaches(破壞) of your network, including those from internal personnel(內部人員).
-But you don’t want false positives to disrupt work. Which of the following devices
+breaches(違反) or even attempted(企圖) breaches(破壞) of your network, including(包含) those from internal personnel(內部人員).
+But you don’t want false positives(誤報) to disrupt work. Which of the following devices
 
 would be the best choice in this scenario?
-A. IPS
-B. WAF
-C. SIEM
+A. IPS(入侵防禦系統)
+B. WAF(web應用防護系統)
+C. SIEM(日誌管理)
 D. IDS (入侵檢測系統)
 ```
 ```
@@ -98,14 +98,14 @@ D. Dictionary attack(字典式攻擊)
 
 #38
 ```
-You have noticed that when in a crowded area,
+You have noticed that when in a crowded(擠) area,
 you sometimes get a stream of unwantedtext messages. (有時您會得到一些不必要的信息)
 The messages end when you leave the area(區域).
 What describes this attack?
-A. Bluejacking
+A. Bluejacking(藍牙攔截)
 B. Bluesnarfing (藍牙漏洞攻擊)
-C. Evil twin
-D. Rogue access point
+C. Evil twin(雙面惡魔)
+D. Rogue access point(無限入侵防禦系統)
 ```
 ```
 答案是: A
@@ -114,12 +114,12 @@ D. Rogue access point
 #39
 ```
 Someone has been rummaging(翻找) through your company’s trash(垃圾) bins seeking(尋找) to find documents(查尋文件),
-diagrams(圖表), or other sensitive information that has been thrown out.
+diagrams(圖表), or other sensitive information(敏感信息) that has been thrown out.
 What is thiscalled?
 A. Dumpster diving (垃圾搜尋)
 B. Trash diving
 C. Social engineering (社交工程)
-D. Trash engineering
+D. Trash engineering(垃圾工程)
 ```
 ```
 答案是: A
@@ -127,13 +127,13 @@ D. Trash engineering
 
 #40
 ```
-You have noticed that when in a crowded area, data from your cell phone is stolen. Later
-investigation(調查) shows a Bluetooth connection to your phone, one that you cannot explain.
+You have noticed that when in a crowded(擠) area, data from your cell phone is stolen(盜). Later
+investigation(調查) shows a Bluetooth connection(連接) to your phone, one that you cannot explain(說明).
 What describes this attack?
-A. Bluejacking
+A. Bluejacking (藍牙攔截)
 B. Bluesnarfing (藍牙漏洞攻擊)
-C. Evil twin
-D. RAT
+C. Evil twin (雙面惡魔)
+D. RAT(遠端存取木馬)
 ```
 ```
 答案是: B 
